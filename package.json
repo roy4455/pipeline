@@ -1,0 +1,23 @@
+{
+  "name": "ci-comparison-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewBestbier/ci-comparison-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewBestbier/ci-comparison-blog/issues"
+  },
+  "homepage": "https://github.com/AndrewBestbier/ci-comparison-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.1"
+  }
+}
